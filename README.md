@@ -1,6 +1,5 @@
 Claims Analysis Dashboard
 
-Link to the report: Claims Analysis.pbix
 
 Overview
 
