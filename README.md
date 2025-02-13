@@ -1,5 +1,7 @@
 Claims Analysis Dashboard
 
+Link to the report: Claims Analysis.pbix
+
 Overview
 
 This Power BI dashboard provides an in-depth analysis of insurance claims data. It showcases key metrics and visualizations to help stakeholders understand claim trends and patterns, aiding in data-driven decision-making.
