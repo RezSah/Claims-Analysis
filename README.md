@@ -1,5 +1,6 @@
 Claims Analysis Dashboard
 
+Link to the report: https://github.com/RezSah/Claims-Analysis/blob/main/Claims%20Analysis.pbix
 
 Overview
 
